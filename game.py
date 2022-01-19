@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
     pygame.init()
     pygame.display.set_caption('Реакция на события от мыши')
-    size = width, height = 300, 300
+    size = width, height = 300, 400
     screen = pygame.display.set_mode(size)
 
     running = True
